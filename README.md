@@ -1,13 +1,13 @@
-# BLISS
+# Meta-SIFT
 
-Scripts for "Deep metagenomic mining reveals bacteriophage sequence motifs driving host specificity".  
+Scripts for "Engineering bacteriophages through deep mining of metagenomic motifs".  
 
 ### Required Dependencies:  
 * Numpy  
 * Cython  
 
 ### Setup and Installation:  
-1. `git clone https://github.com/raman-lab/Bliss`  
+1. `git clone https://github.com/raman-lab/Meta-SIFT`  
 2. `cd Bliss`  
 3. ` python3 compile_cython.py build_ext –inplace`  
 
