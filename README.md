@@ -7,7 +7,7 @@ Scripts for "Engineering bacteriophages through deep mining of metagenomic motif
 * Cython  
 
 ### Setup and Installation:  
-1. `git clone https://github.com/raman-lab/Meta-SIFT`  
+1. `git clone https://github.com/raman-lab/Bliss`  
 2. `cd Bliss`  
 3. ` python3 compile_cython.py build_ext –inplace`  
 
